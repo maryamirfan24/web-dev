@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    width: 100%;
+}
+
+.left {
+    width: 30%;
+    padding: 1rem;
+    background-color: lightblue;
+}
+
+.right {
+    width: 70%;
+    padding: 1rem;
+    background-color: lightcoral;
+}

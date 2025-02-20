@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.outer {
+    width: 90%;
+    margin: 20px auto;
+    background-color: lightgray;
+    padding: 20px;
+}
+
+.middle {
+    width: 50%;
+    background-color: lightgreen;
+    padding: 20px;
+}
+
+.inner {
+    width: 50%;
+    background-color: lightblue;
+    padding: 20px;
+}
+
+.core {
+    width: 50%;
+    background-color: lightcoral;
+    padding: 20px;
+}
